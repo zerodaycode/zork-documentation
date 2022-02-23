@@ -1,1 +1,1 @@
-# [Official Zork documentation page](https://zerodaycode.github.io/zork.github.io)
+# [Official Zork documentation page](https://zerodaycode.github.io/zork-documentation/)
